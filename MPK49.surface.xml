@@ -327,11 +327,11 @@
 		<DeviceMapping device="TransportPanel">
 
 			<Command control="playButton"			command.category="Transport" command.name="Play from Loop Start"/>
-			<Command control="deferedPlayButton"	command.category="Transport" command.name="Toggle Loop"/>
+			<Command control="deferedPlayButton"	        command.category="Transport" command.name="Toggle Loop"/>
 			<Command control="stopButton"			command.category="Transport" command.name="Stop"/>
 			<Command control="recordButton"			command.category="Transport" command.name="Record"/>
 			<Command control="rewindButton"			command.category="Transport" command.name="Rewind Bar"/>
-			<Command control="ffButton"				command.category="Transport" command.name="Forward Bar"/>
+			<Command control="ffButton"		        command.category="Transport" command.name="Forward Bar"/>
 
 		</DeviceMapping>
 		
