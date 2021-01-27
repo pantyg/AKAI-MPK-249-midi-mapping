@@ -1,7 +1,8 @@
 # AKAI249
 Akai  249/261 mapping
-Full mapping of all, standard functionality*(Transport buttons,pads,mixer,arm,relative smooth knobs etc_)
-Daw Control Buttons left as Keystrokes
+
+All are mapped and working as they should (Transport buttons,pads,mixer,arm,relative smooth knobs etc_)
+Daw Control Buttons left as Keystrokes. 
 
 
 Instructions:
