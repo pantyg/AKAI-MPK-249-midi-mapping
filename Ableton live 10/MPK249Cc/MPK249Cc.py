@@ -40,8 +40,8 @@ class MPK249Cc(ControlSurface):
 
     def __init__(self, *a, **k):
         super(MPK249Cc, self).__init__(*a, **k)
-        self.show_message("MPK249Cc")
-        self.log_message("MPK249Cc")
+        self.show_message("^^MPK249Cc")
+        self.log_message("^^MPK249Cc")
         with self.component_guard():
             midimap = MidiMap()
             #buttons and faders 
