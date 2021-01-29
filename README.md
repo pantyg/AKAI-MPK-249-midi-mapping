@@ -1,4 +1,4 @@
-# AKAI249 Control Surface
+# AKAI249 Control Surface with Sysex preset
 Akai  249/261 mapping
 
 All are mapped and working as they should (Transport buttons,pads,mixer,arm,relative smooth knobs etc_)
