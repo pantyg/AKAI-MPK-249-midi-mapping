@@ -1,0 +1,5 @@
+akai mpk249
+replace the original inside presonus/devices/akai akaimpk249.xml with the provided one 
+
+ replaces mmc(original xml from presonus akai devices) transport commands with midi cc type of command 
+ 

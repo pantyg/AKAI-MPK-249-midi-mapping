@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DeviceDefinition
+	vendor="AKAI"
+	name="MPK49/61/88"
+	
+	classID="{84D74B8D-822D-4a01-B7FD-F179EE01FDF8}"
+	category="Keyboard"
+	
+	nativeCode="KeyboardDevice"
+	surfaceFile="MPK49.surface.xml"
+	
+	imageFile="MPK49.png"
+	textFile="MPK49.txt"
+	
+/>
